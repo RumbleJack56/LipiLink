@@ -6,7 +6,7 @@ def main():
     audio = vtt.record_audio()
     text = vtt.convert_to_text(audio)
     print(f"Recognized text: {text}")
-    print(f"ISL Converted: {converter.text_to_isl(text)}")
+    print(f"After Stemming and Lemmetization: {converter.text_to_isl(text)}")
 
 if __name__ == "__main__":
     main()

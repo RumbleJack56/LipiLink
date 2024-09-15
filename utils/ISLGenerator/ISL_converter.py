@@ -6,7 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 
 # Globals
-JAVA_PATH = r"C:\Program Files\Java\jre-1.8\bin\javaw.exe"
+JAVA_PATH = r"C:\Program Files\Java\jre1.8.0_421\bin\javaw.exe"
 STANF_PARSER_PATH = r"stanford-parser-full-2018-02-27\stanford-parser.jar"
 STANF_MODELS_PATH = r"stanford-parser-full-2018-02-27\stanford-parser-3.9.1-models.jar"
 
