@@ -14,4 +14,4 @@ __pycache__/
 *.log
 .DS_Store
 
-stanford-parser-full-2018-02-27
+# stanford-parser-full-2018-02-27
