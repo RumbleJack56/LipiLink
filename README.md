@@ -13,5 +13,5 @@ LipiLink is an innovative tool designed to bridge the communication gap for the 
 ## How it works
 
 <p align="center">
-  <img src="flowchart.jpg" alt="LipiLinkWorkFlow" />
+  <img src="LipiLink.png" alt="LipiLinkWorkFlow" />
 </p>
