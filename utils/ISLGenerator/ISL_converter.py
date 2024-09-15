@@ -11,10 +11,10 @@ STANF_PARSER_PATH = r"stanford-parser-full-2018-02-27\stanford-parser.jar"
 STANF_MODELS_PATH = r"stanford-parser-full-2018-02-27\stanford-parser-3.9.1-models.jar"
 
 # NLTK Downloads
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('punkt')
+nltk.download('stopwords',quiet=True)
+nltk.download('wordnet',quiet=True)
+nltk.download('averaged_perceptron_tagger',quiet=True)
+nltk.download('punkt',quiet=True)
 
 # Environment Set
 os.environ['JAVAHOME'] = JAVA_PATH
