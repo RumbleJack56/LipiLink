@@ -1,7 +1,9 @@
 # LipiLink
 # LipiLink: Translating Silence, Connecting Worlds
 
-LipiLink is an innovative tool designed to bridge the communication gap for the deaf community. Our goal is to enable seamless translation of all types of audio inputs, including phone calls, YouTube videos, and other media, into sign language in real-time. IT is a complex system that uses NLTK, NLP models, SigML, and several other APIs to convert audio to text to ISL and then generate an avatar that uses the sigml for ISL gestures in real-time. 
+Deaf and hard-of-hearing individuals often face significant challenges in communicating effectively during phone and video conversations. Traditional communication methods can be limiting, leading to barriers in accessibility and interaction. Additionally, real-time translation and transcription in multiple languages are often unavailable, making it difficult for these individuals to engage in seamless cross-language communication.
+LipiLink is an AI-powered app designed to enhance communication for deaf and hard-of-hearing individuals by transcribing real-time phone conversations in multiple Indian languages. It provides instant speech-to-text features, focusing on accessibility and privacy. Additionally, LipiLink includes real-time Indian Sign Language (ISL) translation during video calls, ensuring smooth and effective cross-language communication.
+
 
 ## Features
 
