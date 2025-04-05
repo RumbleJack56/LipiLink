@@ -9,4 +9,4 @@ def main():
     print(f"After Stemming and Lemmetization: {converter.text_to_isl(text)}")
 
 if __name__ == "__main__":
-    main()
+    main()h
